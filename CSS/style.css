@@ -1,0 +1,85 @@
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 20px;   
+}
+
+.logo {
+    width: 200px;
+}
+
+input {
+    height: 40px;
+    width: 400px;
+    background-color: rgb(80, 80, 80);
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.input-contain {
+    
+    position: relative;
+}
+
+.gicon1, .gicon2, .gicon3{
+    position: absolute;
+    display: inline-block;
+    height: 30px;
+    top: 8px;
+}
+
+.gicon1 {
+    left: 300px;
+}
+
+.gicon2 {
+    left: 335px;
+}
+
+.gicon3 {
+    left: 370px;
+}
+
+ul {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-left: 30px;
+}
+
+li {
+    margin-left: 50px;
+}
+
+.apps {
+    fill: white;
+    height: 34px;
+}
+
+img {
+    width: 200px;
+}
+
+.profile-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.main-nav {
+    display: flex;
+}
+
+.nav-icon {
+    fill: rgb(96, 96, 96);
+    width: 25px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.main-nav p {
+    color: rgb(96, 96, 96);
+}

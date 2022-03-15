@@ -1,0 +1,15 @@
+body {
+    background-color: #121212;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    width: fit-content;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin:0 auto;
+}

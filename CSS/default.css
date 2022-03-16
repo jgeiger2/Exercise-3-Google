@@ -12,4 +12,10 @@ ul {
     padding-left: 15px;
     padding-right: 15px;
     margin:0 auto;
+    width: 800px;
+    font-size: 28px;
+}
+
+a {
+    text-decoration: none;
 }
